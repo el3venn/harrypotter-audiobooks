@@ -1,0 +1,30 @@
+body{
+  background-color: #222f5b;
+}
+p{
+  font-size: 20px;
+  color: silver;
+}
+h1{
+  text-align: center;
+  color: gold;
+}
+.btn1{
+  text-decoration: none;
+  color: gold;
+  font-size: 23px;
+  background-color: purple;
+  padding: 5px;
+  border: 2px gold solid;
+  border-radius: 5px;
+}
+.btn1:hover{
+  color: yellow;
+  background-color: violet;
+  border: 4px yellow solid;
+}
+.btn1:active{
+  color: orange;
+  background-color: blue;
+  border: 2px orange solid;
+}
